@@ -3,7 +3,7 @@
 
 //Weather Settings
 #define CITY_ID "3015540" //Arrondissement de GOURDON https://openweathermap.org/current#cityid
-#define OPENWEATHERMAP_APIKEY "69d33cbf4007f38f971c29d5e0e5e242" //use your own API key :)
+#define OPENWEATHERMAP_APIKEY "69d33cfgdfg5421f54f5e242" //use your own API key :)
 #define OPENWEATHERMAP_URL "http://api.openweathermap.org/data/2.5/weather?id=" //open weather api
 #define TEMP_UNIT "metric" //metric = Celsius , imperial = Fahrenheit
 #define TEMP_LANG "fr"
