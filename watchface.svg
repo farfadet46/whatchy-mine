@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="watchface.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.5833574"
+     inkscape:cx="107.99943"
+     inkscape:cy="125.12662"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#338000;stroke-width:0.0931537"
+       id="rect10"
+       width="9.7895832"
+       height="5.5562501"
+       x="41.010414"
+       y="37.570831"
+       inkscape:label="BATTERIE" />
+    <g
+       id="g20"
+       transform="translate(-5.0386048e-7,7.4083302)"
+       inkscape:label="heure">
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect1"
+         width="7.9375"
+         height="13.229166"
+         x="4.4979157"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect2"
+         width="7.9375"
+         height="13.229166"
+         x="13.49375"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect3"
+         width="7.9375"
+         height="13.229166"
+         x="22.489584"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect4"
+         width="7.9375"
+         height="13.229166"
+         x="31.485416"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect5"
+         width="7.9375"
+         height="13.229166"
+         x="40.481251"
+         y="12.700003" />
+    </g>
+    <g
+       id="g20-7"
+       transform="translate(-5.0386048e-7,-9.5250027)"
+       inkscape:label="date">
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect1-0"
+         width="7.9375"
+         height="13.229166"
+         x="4.4979157"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect2-8"
+         width="7.9375"
+         height="13.229166"
+         x="13.49375"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect3-1"
+         width="7.9375"
+         height="13.229166"
+         x="22.489584"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect4-5"
+         width="7.9375"
+         height="13.229166"
+         x="31.485416"
+         y="12.700003" />
+      <rect
+         style="fill:#4e3b96;stroke-width:0.1"
+         id="rect5-1"
+         width="7.9375"
+         height="13.229166"
+         x="40.481251"
+         y="12.700003" />
+    </g>
+    <rect
+       style="fill:#ff0000;stroke-width:0.0782409"
+       id="rect6"
+       width="6.8791666"
+       height="4.7624998"
+       x="32.279167"
+       y="37.835415"
+       inkscape:label="WIFI" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.0597575"
+       id="rect7"
+       width="3.4395833"
+       height="5.5562501"
+       x="22.489582"
+       y="44.979164"
+       inkscape:label="BT" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.140074"
+       id="rect7-5"
+       width="7.9375"
+       height="13.229166"
+       x="1.3229166"
+       y="38.364582"
+       inkscape:label="WIFI" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.140074"
+       id="rect7-5-5"
+       width="7.9375"
+       height="13.229166"
+       x="10.054167"
+       y="38.364582"
+       inkscape:label="WIFI" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.0824737"
+       id="rect7-5-9"
+       width="6.8791666"
+       height="5.2916665"
+       x="18.785416"
+       y="38.364582"
+       inkscape:label="WIFI" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.0756053"
+       id="rect9-0"
+       width="5.0270834"
+       height="6.0854163"
+       x="28.839582"
+       y="44.979164"
+       inkscape:label="icon_bat" />
+    <rect
+       style="fill:#338000;stroke-width:0.101593"
+       id="rect10-9"
+       width="16.300957"
+       height="3.96875"
+       x="34.924999"
+       y="46.037498"
+       inkscape:label="text bat %" />
+  </g>
+</svg>
