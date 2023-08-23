@@ -12,3 +12,4 @@ http://javl.github.io/image2cpp/
  - Official page :
 https://watchy.sqfmi.com/docs/getting-started/
 ************
+need to cleanup the code remove old font, old img
